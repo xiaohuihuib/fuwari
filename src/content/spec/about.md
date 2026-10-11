@@ -1,9 +1,6 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+这是一个Fuwari站点。 仓库：[Fuwari](https://github.com/xiaohuihuib/fuwari)
 
-::github{repo="saicaca/fuwari"}
+::github{repo="xiaohuihuib/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+本博客中，除“关于”页面外，所有文章均为AI辅助生成。所谓“AI辅助生成”，是指在文章创作过程中，可能借助人工智能工具完成资料整理、思路梳理、结构搭建、初稿撰写和语言润色等环节，并可能经过一定的人工编辑、校对与调整。这些文章主要用于个人记录、学习整理与信息分享，不构成任何专业建议，也不保证绝对准确、完整或及时。受AI能力与审核疏漏所限，文中可能存在错误、偏差或过时信息，请读者保持独立思考，并对关键内容自行核实。“关于”页面为本人撰写，用于介绍博客与作者。
